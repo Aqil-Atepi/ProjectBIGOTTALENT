@@ -16,7 +16,3 @@ How to use the raw version :
 - Install every libraries alongside extensions
 - Run the app on the code editor (for example, Visual Studio Code)
 - Enjoy!
-
-How to Download the apk :
-- Go to folder 'apk-build'
-- Download the apk
