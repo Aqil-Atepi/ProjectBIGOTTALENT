@@ -1,16 +1,22 @@
-# storebase
+# ProjectBIGOTTALENT
+This project is a submition for BIGOTTALENT 19-04-2025
 
-A new Flutter project.
+Build 1.0.0 / 19-04-2025
+- Inventory Application 'StoreBase'
+- Add in a :
+  > Log In System (NOT FINISHED)
+  > Dashboard (NOT FINISHED)
+  > Warehouse (NOT FINISHED)
+  > Statistic (NOT FINISHED)
+  > History (NOT FINISHED)
+  > Settings (NOT FINISHED)
 
-## Getting Started
+How to use the raw version : 
+- Clone the git repository
+- Install every libraries alongside extensions
+- Run the app on the code editor (for example, Visual Studio Code)
+- Enjoy!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to Download the apk :
+- Go to folder 'apk-build'
+- Download the apk
